@@ -15,7 +15,7 @@ export const Projects = () => {
               <div style={{backgroundImage: `url(${Working})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
                   <div className='opacity-0 group-hover:opacity-100'>
                     <span className='text-2xl font-bold text-white tracking-wide'>
-                        React JS APP
+                      Online Food Delivery System
                     </span>
                     <div className='pt-8 text-center'>
                         <a href='/'>
@@ -31,7 +31,7 @@ export const Projects = () => {
               <div style={{backgroundImage: `url(${Real})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
                   <div className='opacity-0 group-hover:opacity-100'>
                     <span className='text-2xl font-bold text-white tracking-wide'>
-                        React JS APP
+                        Freelance Management System
                     </span>
                     <div className='pt-8 text-center'>
                         <a href='/'>
@@ -47,7 +47,7 @@ export const Projects = () => {
               <div style={{backgroundImage: `url(${Working})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
                   <div className='opacity-0 group-hover:opacity-100'>
                     <span className='text-2xl font-bold text-white tracking-wide'>
-                        React JS APP
+                        Expense Tracker App
                     </span>
                     <div className='pt-8 text-center'>
                         <a href='/'>
@@ -63,7 +63,7 @@ export const Projects = () => {
               <div style={{backgroundImage: `url(${Real})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
                   <div className='opacity-0 group-hover:opacity-100'>
                     <span className='text-2xl font-bold text-white tracking-wide'>
-                        React JS APP
+                       React Pokedex App
                     </span>
                     <div className='pt-8 text-center'>
                         <a href='/'>
@@ -79,7 +79,7 @@ export const Projects = () => {
               <div style={{backgroundImage: `url(${Working})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
                   <div className='opacity-0 group-hover:opacity-100'>
                     <span className='text-2xl font-bold text-white tracking-wide'>
-                        React JS APP
+                       Bank ManagementSystem
                     </span>
                     <div className='pt-8 text-center'>
                         <a href='/'>
@@ -95,7 +95,7 @@ export const Projects = () => {
               <div style={{backgroundImage: `url(${Real})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
                   <div className='opacity-0 group-hover:opacity-100'>
                     <span className='text-2xl font-bold text-white tracking-wide'>
-                        React JS APP
+                      Society Management System
                     </span>
                     <div className='pt-8 text-center'>
                         <a href='/'>
