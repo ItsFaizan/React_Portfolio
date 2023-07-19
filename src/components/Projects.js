@@ -12,96 +12,84 @@ export const Projects = () => {
            </div>
 
            <div className='grid sm:grid-cols-2 md:grid-cols-3 gap-4'>
-              <div style={{backgroundImage: `url(${Working})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
-                  <div className='opacity-0 group-hover:opacity-100'>
+              <div className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+                  <div >
                     <span className='text-2xl font-bold text-white tracking-wide'>
                       Online Food Delivery System
                     </span>
                     <div className='pt-8 text-center'>
-                        <a href='/'>
-                            <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
-                        </a>
-                        <a href='/'>
+                
+                        <a href='https://github.com/ItsFaizan/Mern_Project-Online-Food-Delivery-System.git'>
                             <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                         </a>
                     </div>
                   </div>
               </div>
 
-              <div style={{backgroundImage: `url(${Real})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
-                  <div className='opacity-0 group-hover:opacity-100'>
+              <div className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+                  <div >
                     <span className='text-2xl font-bold text-white tracking-wide'>
                         Freelance Management System
                     </span>
                     <div className='pt-8 text-center'>
-                        <a href='/'>
-                            <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
-                        </a>
-                        <a href='/'>
+                        
+                        <a href='https://github.com/ItsFaizan/SkillServe_Mern_Project.git'>
                             <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                         </a>
                     </div>
                   </div>
               </div>
 
-              <div style={{backgroundImage: `url(${Working})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
-                  <div className='opacity-0 group-hover:opacity-100'>
+              <div  className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+                  <div >
                     <span className='text-2xl font-bold text-white tracking-wide'>
                         Expense Tracker App
                     </span>
                     <div className='pt-8 text-center'>
-                        <a href='/'>
-                            <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
-                        </a>
-                        <a href='/'>
+                       
+                        <a href='https://github.com/ItsFaizan/React-ExpenseTrackerApp.git'>
                             <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                         </a>
                     </div>
                   </div>
               </div>
 
-              <div style={{backgroundImage: `url(${Real})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
-                  <div className='opacity-0 group-hover:opacity-100'>
+              <div  className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+                  <div >
                     <span className='text-2xl font-bold text-white tracking-wide'>
                        React Pokedex App
                     </span>
                     <div className='pt-8 text-center'>
-                        <a href='/'>
-                            <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
-                        </a>
-                        <a href='/'>
+                       
+                        <a href='https://github.com/ItsFaizan/Pokedex_React.git'>
                             <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                         </a>
                     </div>
                   </div>
               </div>
 
-              <div style={{backgroundImage: `url(${Working})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
-                  <div className='opacity-0 group-hover:opacity-100'>
+              <div  className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+                  <div >
                     <span className='text-2xl font-bold text-white tracking-wide'>
                        Bank ManagementSystem
                     </span>
                     <div className='pt-8 text-center'>
-                        <a href='/'>
-                            <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
-                        </a>
-                        <a href='/'>
+                        
+                        <a href='https://github.com/ItsFaizan/Bank_Management_System.git'>
                             <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                         </a>
                     </div>
                   </div>
               </div>
 
-              <div style={{backgroundImage: `url(${Real})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
-                  <div className='opacity-0 group-hover:opacity-100'>
+              <div  className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+                  <div >
                     <span className='text-2xl font-bold text-white tracking-wide'>
                       Society Management System
                     </span>
                     <div className='pt-8 text-center'>
-                        <a href='/'>
-                            <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
-                        </a>
-                        <a href='/'>
+                       
+                        <a href='https://github.com/ItsFaizan/Society_Management_System.git'>
                             <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                         </a>
                     </div>
